@@ -4,21 +4,9 @@ struct Solution;
 
 impl Solution {
 
-    pub fn sort_the_students(score: Vec<Vec<i32>>, k: i32) -> Vec<Vec<i32>> {
-        let m = score.len();
-
-        let mut k_scores_pair: Vec<(i32, usize)> = (0..m).map(|i| (score[i][k as usize], i)).collect();
-        k_scores_pair.sort();
-
-        let score_ordered: Vec<Vec<i32>> = (0..m).map(
-            |i|{
-                let pair_index = (m - i) - 1;
-                let row_pair = k_scores_pair[pair_index];
-                score[row_pair.1].clone()
-            }
-        ).collect();
-
-        score_ordered
+    pub fn sort_the_students(mut score: Vec<Vec<i32>>, k: i32) -> Vec<Vec<i32>> {
+        score.sort_unstable_by_key(|key| -key[k as usize]);
+        score
     }
 
 }
