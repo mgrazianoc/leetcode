@@ -7,7 +7,8 @@
 | ------- | -----------------                                     | --------------------------------------- | ---------------------------------------- |
 | 1       | Two Sum                                               | $\textcolor{purple}{\textsf{Kotlin}}$   | $\textcolor{green}{\textsf{Easy}}$       |
 | 2       | Add Two Numbers                                       | $\textcolor{purple}{\textsf{Rust}}$     | $\textcolor{orange}{\textsf{Medium}}$    |
-| 3       | Longest Substring Without Repeating Characters        | $\textcolor{purple}{\textsf{Rust}}$     | $\textcolor{orange}{\textsf{Medium}}$    |
+| 3       | Longest Substring Without Repeating Characters        | $\textcolor{red}{\textsf{Rust}}$        | $\textcolor{orange}{\textsf{Medium}}$    |
+| 4       | Median of Two Sorted Arrays                           | $\textcolor{red}{\textsf{Rust}}$        | $\textcolor{red}{\textsf{Hard}}$         |
 | 9       | Palindrome Number                                     | $\textcolor{purple}{\textsf{Kotlin}}$   | $\textcolor{green}{\textsf{Easy}}$       |
 | 13      | Roman to Integer                                      | $\textcolor{red}{\textsf{Rust}}$        | $\textcolor{green}{\textsf{Easy}}$       |
 | 14      | Longest Common Prefix                                 | $\textcolor{purple}{\textsf{Kotlin}}$   | $\textcolor{green}{\textsf{Easy}}$       |
