@@ -16,6 +16,7 @@
 | 21      | Merge Two Sorted Lists                                | $\textcolor{red}{\textsf{Rust}}$        | $\textcolor{green}{\textsf{Easy}}$       |
 | 26      | Remove duplicates from Sorted Array                   | $\textcolor{red}{\textsf{Rust}}$        | $\textcolor{green}{\textsf{Easy}}$       |
 | 27      | Remove Element                   			  | $\textcolor{red}{\textsf{Rust}}$        | $\textcolor{green}{\textsf{Easy}}$       |
+| 28      | Find the index of the First Occurence in a String     | $\textcolor{blue}{\textsf{Python}}$     | $\textcolor{green}{\textsf{Easy}}$       |
 | 175     | Combine Two Tables                  	          | $\textcolor{blue}{\textsf{MySQL}}$      | $\textcolor{green}{\textsf{Easy}}$       |
 | 177     | Nth Highest Salary                  	          | $\textcolor{blue}{\textsf{MySQL}}$      | $\textcolor{orange}{\textsf{Medium}}$    |
 | 185     | Department Top Three Salaries                  	  | $\textcolor{blue}{\textsf{MySQL}}$      | $\textcolor{red}{\textsf{Hard}}$         |
